@@ -7,7 +7,7 @@
 //                                                             ▀▀▀▀▀    █  █  █      ▀
 //                                                                      ▀  ▀  ▀
 //
-// Optimized Totem keymap - transferred and enhanced from Corne layout
+// Optimized Totem keymap - transferred and enhanced from Corne layout.
 // Focused on coding efficiency with improved homerow mods and layer organization
 
 #include <behaviors.dtsi>
